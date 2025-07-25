@@ -1,3 +1,13 @@
+# :information_source: Sobre o repositório # 
+
+Este projeto foi realizado para o Bootcamp WEX - End to End Engineering.
+
+Além da implementação inicial, na pasta [hotel](./hotel/), também foi realizada uma implementação do projeto com personalização própria. 
+
+Nesta implementação, na pasta [hotel_proprio](./hotel_proprio/), foram adicionadas funções, além de um menu básico. Além da criação de suites, reservas e pessoas, foram adicionadas a listagem de reservas e suites e a edição de suites. Algumas validações adicionais foram criadas. 
+
+---
+
 # DIO - Trilha .NET - Explorando a linguagem C#
 www.dio.me
 
